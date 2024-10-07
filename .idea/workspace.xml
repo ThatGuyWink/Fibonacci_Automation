@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b63c7876-0b61-4161-9ef9-656a0167cd0e" name="Changes" comment="FibonacciTest added">
-      <change afterPath="$PROJECT_DIR$/src/Jenkinsfile" afterDir="false" />
+    <list default="true" id="b63c7876-0b61-4161-9ef9-656a0167cd0e" name="Changes" comment="Moved Jenkinsfile to root">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="FibonacciApp" />
@@ -90,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728257736501</updated>
-      <workItem from="1728257737505" duration="1757000" />
+      <workItem from="1728257737505" duration="2353000" />
     </task>
     <task id="LOCAL-00001" summary="FibonacciTest added">
       <option name="closed" value="true" />
@@ -100,7 +107,39 @@
       <option name="project" value="LOCAL" />
       <updated>1728258425215</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FibonacciTest added">
+      <option name="closed" value="true" />
+      <created>1728261778790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728261778790</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FibonacciTest added">
+      <option name="closed" value="true" />
+      <created>1728261788001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728261788001</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Moved Jenkinsfile to root">
+      <option name="closed" value="true" />
+      <created>1728261889958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728261889958</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Moved Jenkinsfile to root">
+      <option name="closed" value="true" />
+      <created>1728261956778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728261956778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commot of Fibonacci app" />
     <MESSAGE value="FibonacciTest added" />
-    <option name="LAST_COMMIT_MESSAGE" value="FibonacciTest added" />
+    <MESSAGE value="Moved Jenkinsfile to root" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved Jenkinsfile to root" />
   </component>
 </project>
