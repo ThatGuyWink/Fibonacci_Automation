@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b63c7876-0b61-4161-9ef9-656a0167cd0e" name="Changes" comment="Moved Jenkinsfile to root">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b63c7876-0b61-4161-9ef9-656a0167cd0e" name="Changes" comment="Updated Dockerfile and pom.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728257736501</updated>
-      <workItem from="1728257737505" duration="2353000" />
+      <workItem from="1728257737505" duration="2795000" />
     </task>
     <task id="LOCAL-00001" summary="FibonacciTest added">
       <option name="closed" value="true" />
@@ -139,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728261956778</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated Dockerfile and pom.xml">
+      <option name="closed" value="true" />
+      <created>1728262411267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728262411267</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +153,7 @@
     <MESSAGE value="Initial commot of Fibonacci app" />
     <MESSAGE value="FibonacciTest added" />
     <MESSAGE value="Moved Jenkinsfile to root" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved Jenkinsfile to root" />
+    <MESSAGE value="Updated Dockerfile and pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Dockerfile and pom.xml" />
   </component>
 </project>
